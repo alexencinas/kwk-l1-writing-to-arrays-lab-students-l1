@@ -39,5 +39,3 @@ def add_colors
 end
 
 add_colors
-
-puts rainbow_colors
