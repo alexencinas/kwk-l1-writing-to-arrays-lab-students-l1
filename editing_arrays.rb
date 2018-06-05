@@ -32,7 +32,7 @@ def add_colors
   rainbow_colors[1] = "light_red"
   rainbow_colors[2] = "light_yellow"
   
-  rainbow_color << "green"
+  rainbow_colors << "green"
   rainbow_colors.push('blue')
   
   puts rainbow_colors
