@@ -5,6 +5,7 @@ rainbow_colors = [
 
 def change_rainbow_colors
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
+  
   rainbow_colors = [
   "yellow",
   "default",
